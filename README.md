@@ -1,1 +1,1 @@
-# vuepress-theme-api-test-1-starter-kit
+# vuepress-theme-api-test1-starter-kit
